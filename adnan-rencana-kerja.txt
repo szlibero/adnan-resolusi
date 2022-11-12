@@ -1,0 +1,5 @@
+RENCANA KERJA ADNAN
+- bekerja dikantor dengan nyaman
+- menggunakan framework laravel dengan baik
+- mengguanakan visual studio code dengan baik
+- gaji diatas umr
