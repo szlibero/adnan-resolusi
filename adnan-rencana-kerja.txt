@@ -4,6 +4,7 @@ RENCANA KERJA ADNAN
   * membuat projek 
   * magang
   * freelance
+  * kerja di pt
 - mengguanakan visual studio code dengan baik
   * artisan laravel
   * tema yang bagus
