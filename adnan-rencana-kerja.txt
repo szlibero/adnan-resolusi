@@ -3,6 +3,7 @@ RENCANA KERJA ADNAN
 - menggunakan framework laravel dengan baik
   * membuat projek 
   * magang
+  * freelance
 - mengguanakan visual studio code dengan baik
   * artisan laravel
   * tema yang bagus
