@@ -2,7 +2,9 @@ RENCANA KERJA ADNAN
 - bekerja dikantor dengan nyaman
 - menggunakan framework laravel dengan baik
   * membuat projek 
+  * kerja di pt
+  * magang
+  * bootcamp
 - mengguanakan visual studio code dengan baik
   * artisan laravel
   * tema yang bagus
-- gaji diatas umr
